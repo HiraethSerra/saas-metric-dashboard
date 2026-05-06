@@ -1,5 +1,5 @@
 # SaaS Metrics Dashboard
-🔗 [Live Demo]((https://saas-metric-dashboard.streamlit.app/))
+🔗 [Live Demo](https://saas-metric-dashboard.streamlit.app/)
 
 An interactive dashboard for analysing key SaaS business metrics built with Python and Streamlit.
 
